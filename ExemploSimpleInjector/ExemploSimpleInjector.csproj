@@ -123,6 +123,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\SimpleInjectorConfig.cs" />
     <Compile Include="Contexts\DataContext.cs" />
     <Compile Include="Controllers\ClienteController.cs" />
     <Compile Include="Global.asax.cs">
